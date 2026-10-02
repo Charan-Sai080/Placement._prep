@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63be64c6-db61-45bb-8201-e5262fe9dd9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000019788025724" />
+      <entry key="MS500" value="1.2086527378107885" />
+      <entry key="S2" value="2.7980711368029167" />
+      <entry key="S5" value="4.648251036534251" />
+      <entry key="S10" value="5.936574416721944" />
+      <entry key="S30" value="7.2032554315010895" />
+      <entry key="S60" value="7.757157005460304" />
+      <entry key="M2" value="8.626027858619029" />
+      <entry key="M5" value="10.055987698760005" />
+      <entry key="M10" value="10.884060631514915" />
+      <entry key="M15" value="11.221856859566945" />
+      <entry key="M30" value="11.914139526588217" />
+      <entry key="H1" value="15.611218730938697" />
+      <entry key="H2" value="25.55412429826419" />
+      <entry key="H4" value="49.98220581761671" />
+      <entry key="D1" value="334.0591209073156" />
+      <entry key="W1" value="973.544537663672" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="1.9916010440301366E-126" />
+      <entry key="S60" value="2.0058952917257645E-63" />
+      <entry key="M2" value="7.049277809223758E-32" />
+      <entry key="M5" value="8.672640162188294E-13" />
+      <entry key="M10" value="2.3516943546501E-6" />
+      <entry key="M15" value="3.3494187725419057E-4" />
+      <entry key="M30" value="0.048192991866516544" />
+      <entry key="H1" value="0.5819800199172547" />
+      <entry key="H2" value="2.099208920210064" />
+      <entry key="H4" value="5.391322796735828" />
+      <entry key="D1" value="42.69233715025611" />
+      <entry key="W1" value="162.98978556187458" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9526488621498499" />
+      <entry key="MS500" value="1.1640686987117126" />
+      <entry key="S2" value="2.7055912077980793" />
+      <entry key="S5" value="4.526400737548027" />
+      <entry key="S10" value="5.82978321469978" />
+      <entry key="S30" value="7.149396879386661" />
+      <entry key="S60" value="7.726658850505927" />
+      <entry key="M2" value="8.608908799360893" />
+      <entry key="M5" value="10.048107959845185" />
+      <entry key="M10" value="10.879838167636544" />
+      <entry key="M15" value="11.219297667492587" />
+      <entry key="M30" value="11.960739759228773" />
+      <entry key="H1" value="16.191825707373443" />
+      <entry key="H2" value="27.65183691776488" />
+      <entry key="H4" value="55.37173314266704" />
+      <entry key="D1" value="376.7490036951925" />
+      <entry key="W1" value="1136.5330593952006" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IuHpFvyVmKRq0o9QGtE6kBwPGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.armstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.convertCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gcdOf2Num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergesort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printDiv.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removeDummy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseNumer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.selection.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/charancherry/IdeaProjects/dsa/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.excludes&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle Tasks" flag="true" />
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="HTTP Requests" flag="true" />
+      <visibility group="Maven Goals" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run Configurations" flag="true" />
+      <visibility group="npm" flag="true" />
+      <visibility group="pnpm" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+  </component>
+  <component name="RunManager">
+    <configuration name="countDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuf.basicMath.countDigits" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tuf.basicMath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.countDigits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63be64c6-db61-45bb-8201-e5262fe9dd9b" name="Changes" comment="" />
+      <created>1788607717138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788607717138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
